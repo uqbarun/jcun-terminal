@@ -18,7 +18,7 @@ do
 ) & sleep 0.025;
 counter=$(( $counter + 50))
 done 
-#echo -e "\033[2J\033[?25l"
+
 }
 
 #matrix 4000 2>/dev/null
